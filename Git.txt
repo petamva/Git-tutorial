@@ -1,4 +1,5 @@
-# this file contains commonly used git commands
+# This file contains commonly used git commands
+# For more exercises and practice visit: https://learngitbranching.js.org/
 
 git init  # initialize git
 
