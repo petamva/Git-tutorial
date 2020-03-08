@@ -1,0 +1,42 @@
+# this file contains commonly used git commands
+
+git init  # initialize git
+
+git status # shows modifications
+
+git log # log of activities
+
+git add <file> # add file to staging area
+
+git add .  # add everything to staging area
+
+git rm --cached -r <file> # remove file from staging area
+
+git rm --cached -r . # remove all from staging area
+
+git commit -m "Message" #commit uploads with a message
+
+git diff <file> # show changes in file
+
+git checkout <file> # roll back to last version commited
+
+touch .gitignore  # this file contains the files you don't want to upload
+
+git remote add origin <url>   # remote staging area
+
+git push origin master -u # push to remote
+
+git clone <url> # download repo to pc
+
+git branch <branch name> # create branch
+
+git branch # show branches
+
+git checkout <branch name> # switch branch
+ 
+git merge <branch name> # merge branches
+
+
+
+
+
